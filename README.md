@@ -1,5 +1,4 @@
-# HCS
-HCS-HabeshawiCrimsonSentinel
+# HCS-HabeshawiCrimsonSentinel
 Qeyo's Red-Ops Arsenal
 
 "The best defense is a proactive, unyielding offense. To build a fortress, you must first learn to tear one down."
